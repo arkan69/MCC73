@@ -1,0 +1,15 @@
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.csproj.AssemblyReference.cache
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.AssemblyInfoInputs.cache
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.AssemblyInfo.cs
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.csproj.CoreCompileInputs.cache
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\bin\Debug\net6.0\BasicProg.exe
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\bin\Debug\net6.0\BasicProg.deps.json
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\bin\Debug\net6.0\BasicProg.runtimeconfig.json
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\bin\Debug\net6.0\BasicProg.dll
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\bin\Debug\net6.0\BasicProg.pdb
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.dll
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\refint\BasicProg.dll
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.pdb
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\BasicProg.genruntimeconfig.cache
+D:\ARKA\MCC (KERJAAN)\MCC73\BasicProg\obj\Debug\net6.0\ref\BasicProg.dll
